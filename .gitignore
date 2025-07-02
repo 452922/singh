@@ -1,0 +1,8 @@
+Resource_group/.terraform.lock.hcl
+Resource_group/.terraform/
+storage_account/.terraform.lock.hcl
+storage_account/.terraform/
+Resource_group_1/.terraform.lock.hcl
+Resource_group_1/.terraform/
+storage_account_1/.terraform.lock.hcl
+storage_account_1/.terraform/
